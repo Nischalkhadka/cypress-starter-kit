@@ -1,7 +1,7 @@
 # Why Cypress
 # Installation
 # Lets write the first test
-# Writing and Organing tests
+# Writing and Organizing tests
 # Retry-ability
 # Interacting with Elements
 # Variables
