@@ -17,3 +17,4 @@ https://www.cypress.io/
 # Aliases
 # Conditional Testing
 # The Test Runner
+# Best Practices
