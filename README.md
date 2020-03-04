@@ -18,3 +18,4 @@ https://www.cypress.io/
 # Conditional Testing
 # The Test Runner
 # Best Practices
+# Tradeoffs
