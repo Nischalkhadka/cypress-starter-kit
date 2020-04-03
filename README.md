@@ -9,13 +9,10 @@ You can time-travel with snapshots, automatically reload test changes and await 
 https://www.cypress.io/
 
 # Installation
-# Lets write the first test
-# Writing and Organizing tests
-# Retry-ability
-# Interacting with Elements
-# Variables
-# Aliases
-# Conditional Testing
-# The Test Runner
-# Best Practices
-# Tradeoffs
+# Writing the First test
+# Accessing Elements and interacting with them
+# Validations
+# Grouping Tests with Mocha
+# Cypress CLI
+# Page Objects in Cypress
+# Visual Validations
