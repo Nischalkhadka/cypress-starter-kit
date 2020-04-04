@@ -15,11 +15,49 @@ https://www.cypress.io/
 3) Testing only
 4) Mocha only as a Test runner
 5) Fast as test code runs in the browser just like the application code.
+
 # Installation
+## Prerequisites
+Install NodeJS and NPM
+
+## Go to the folder where you want to install the cypress
+1. Create a package.json file
+Run:
+npm inti -y
+2. Run:
+npm install cypress
+## Run Cypress to verify it is successfully installed
+npx cypress open
+## **Add screenshot**
+## Folder Srucutre
+- Fixtures
+- Integration
+- Plugins
+- Support
+
 # Writing the First test
+## Lets look at the application under test
+## Creating a test file
+## Making the test fail
+## Stop running the test after each file change
+
 # Accessing Elements and interacting with them
+## Finding the element
+## Wait
+Waits for the element to find in the page
+## Docs
+
 # Validations
+## should
+## Making the validation faile
+
 # Grouping Tests with Mocha
+## describe
+## using hooks (beforeEach, before,afterEach,after)
+## running only one test
+
 # Cypress CLI
+## npm cypress run
+
 # Page Objects in Cypress
 # Visual Validations
