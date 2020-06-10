@@ -48,12 +48,24 @@ You will see the following upon successful installation:
 
 ![Installation Complete](https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/Installation.png)
 
-# Running Cypress
+## Running Cypress
 
 ```./node_modules/.bin/cypress open```
 
 You will be greeted with the following 'Getting Started' screen
 
 ![Getting Started](https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/Open_Cypress.png)
+
+## Running a Test
+
+## Adding More Tests
+
+## Organizing Tests
+
+## Tradeoffs in Cypress
+- No cross-browser support other than Chrome and Electron
+- No support for other languages than Javascript
+- Doesn't support multiple tabs as commands run isnide the browser
+
 
 
