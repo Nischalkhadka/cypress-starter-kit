@@ -36,3 +36,16 @@ Cypress is a desktop application that supports these operating systems:
 ## Install using npm
 It supports Node.js 8 and above
 
+Step 1
+
+```cd /your/project/path```
+
+Step 2
+
+```npm install cypress --save-dev```
+
+You will see the following upon successful installation:
+![alt text](http://url/to/img.png)
+
+# Running Cypress
+
