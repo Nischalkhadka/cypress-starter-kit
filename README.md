@@ -52,4 +52,8 @@ You will see the following upon successful installation:
 
 ```./node_modules/.bin/cypress open```
 
+You will be greeted with the following 'Getting Started' screen
+
+![Geeting Started] (https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/Open_Cypress.png)
+
 
