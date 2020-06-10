@@ -45,7 +45,11 @@ Step 2
 ```npm install cypress --save-dev```
 
 You will see the following upon successful installation:
-![alt text](http://url/to/img.png)
+
+![Installation Complete](https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/Installation.png)
 
 # Running Cypress
+
+```./node_modules/.bin/cypress open```
+
 
