@@ -1,4 +1,5 @@
 describe ('Verify that the Author is Nischal Khadka', () =>{
+    
     it("should visit the blog", () => {
         cy.visit("/blog/device-fragmentation-during-mobile-testing/")
     })
@@ -11,6 +12,5 @@ describe ('Verify that the Author is Nischal Khadka', () =>{
     it("should verify the author", () =>{
         cy.get('article > :nth-child(29)').contains('Nischal Khadka')
     })
-
 
 })
