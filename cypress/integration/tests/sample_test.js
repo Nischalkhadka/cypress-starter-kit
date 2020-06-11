@@ -1,3 +1,5 @@
+/// <reference types="cypress" />
+
 describe ('Search for Leapfrog technology ', () =>{
     
     it("should visit Google Homepage", () => {
