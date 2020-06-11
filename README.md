@@ -76,6 +76,7 @@ Lets look into the test we have written. It covers the following steps:
 1. Go to Google Search
 2. Search for Leapfrog technology
 
+![Test File](https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/sample_test.png)
 
 
 ## References
