@@ -56,16 +56,29 @@ You will be greeted with the following 'Getting Started' screen
 
 ![Getting Started](https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/Open_Cypress.png)
 
-## Running a Test
+## Adding a Test file
 
-## Adding More Tests
+Step 1: Setting up a base URL in your configuration file (cypress.json by default)
 
-## Organizing Tests
+Step 2: Add a test file inside the ```integration``` folder
 
-## Tradeoffs in Cypress
-- No cross-browser support other than Chrome and Electron
-- No support for other languages than Javascript
-- Doesn't support multiple tabs as commands run isnide the browser
+Create a ```sample_test.js``` file inside ```tests``` folder
+
+## Writing tests
+
+A test should generally cover three phases:
+1. Set up the application state.
+2. Take an action.
+3. Make an assertion about the result application state.
+
+Lets look into the test we have written. It covers the following steps:
+
+1. Go to Google Search
+2. Search for Leapfrog technology
 
 
 
+## References
+- API
+- Best Practices
+- Tradeoffs
