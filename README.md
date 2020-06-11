@@ -78,8 +78,17 @@ Lets look into the test we have written. It covers the following steps:
 
 ![Test File](https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/sample_test.png)
 
+## Core Concepts
+- [Organizing tests](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests.html#Folder-Structure)
+- [Interacting with Elements](https://docs.cypress.io/guides/core-concepts/interacting-with-elements.html#Actionability)
+- [The Test Runner](https://docs.cypress.io/guides/core-concepts/test-runner.html#Command-Log)
+- [Variables and Aliases](https://docs.cypress.io/guides/core-concepts/variables-and-aliases.html#Debugging)
+
 
 ## References
-- API
-- Best Practices
-- Tradeoffs
+- [API](https://docs.cypress.io/api/commands/type.html#Key-Combinations)
+- [Best Practices](https://docs.cypress.io/guides/references/best-practices.html)
+- [Tradeoffs](https://docs.cypress.io/guides/references/trade-offs.html#Permanent-trade-offs-1)
+- [Cypress Guides](https://docs.cypress.io/guides/guides/stubs-spies-and-clocks.html#Capabilities)
+- [Plugins](https://docs.cypress.io/plugins/index.html)
+- [Using a Plugins](https://docs.cypress.io/guides/tooling/plugins-guide.html#Using-a-plugin)
