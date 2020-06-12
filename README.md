@@ -49,8 +49,27 @@ You will see the following upon successful installation:
 ![Installation Complete](https://github.com/Nischalkhadka/cypress-starter-kit/blob/master/screenshots/Installation.png)
 
 ## Running Cypress
+Option 1
 
 ```./node_modules/.bin/cypress open```
+
+Option 2: Adding npm scripts in ```package.json``` file
+
+    "scripts": 
+    {
+      "cy:open":"./node_modules/.bin/cypress open",
+      "cy:run": "cypress run"
+    }
+
+Run
+```npm run cy:open```
+
+Option 3: Running cypress in CLI mode
+
+Run
+```npm run cy:run```
+
+
 
 You will be greeted with the following 'Getting Started' screen
 
