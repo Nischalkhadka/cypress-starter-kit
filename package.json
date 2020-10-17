@@ -1,12 +1,11 @@
 {
-    "name":"cypress-starter-kit",
-    "version":"0.0.2",
-    "description":"This repo conatins the information on getting started with End-to-End Testing in React using Cypress",
+    "name": "cypress-starter-kit",
+    "version": "0.0.2",
+    "description": "This repo conatins the information on getting started with End-to-End Testing in React using Cypress",
     "homepage": "https://github.com/Nischalkhadka/cypress-starter-kit#introduction",
     "author": "Nischal Khadka",
-    "scripts": 
-    {
-      "cy:open":"./node_modules/.bin/cypress open",
-      "cy:run": "cypress run"
+    "scripts": {
+        "cy:open": "./node_modules/.bin/cypress open",
+        "cy:run": "cypress run"
     }
 }
